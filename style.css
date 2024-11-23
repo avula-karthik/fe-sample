@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+}
+.h1-header {
+  color: green;
+}
+.submit-button {
+  color: blueviolet;
+}
+.error-details {
+  color: red;
+}
